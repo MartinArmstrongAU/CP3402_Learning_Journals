@@ -5,9 +5,9 @@ This week I;
 * Attended the weekly seminar, 
 * Watched/Engaged in the "Lecture Recording 01 - Intro & Web Design Review", 
 * Completed the revision test (and re-learned everything on it), 
-* Watched the suggested LinkedIn Learning resource (https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/)
-* Got started with Bootstrap (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-* Published to Web Hosting using GitHub Pages (https://pages.github.com/)
+* Watched the suggested [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/) resource 
+* Got started with [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* Published to Web Hosting using [GitHub Pages](https://pages.github.com/)
 
 ## Estimated Hours
 I spent about 13 hours of my own time this week learning this subject (consisting of on-campus classes and self-study)
